@@ -29,6 +29,8 @@ Your task is therefore:
     - apply the inverse FFT
     - plot the signal with what you started out
 
+Note: If you plot e.g. the magnitude you will notice it is mirrorsymmetric around the middle! This is because FFT is actually defined for complex signals. Because we only have real signals, practically half of the FFT is redundant. But this also means, all of our manual-filters need to take the mirror-symmetry into account.
+
 ## Highpass instead of lowpass
 Repeat the steps from above, but this time, remove the low frequency components
 

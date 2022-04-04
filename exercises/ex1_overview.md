@@ -1,6 +1,6 @@
 # Signal processing and analysis of human brain potentials (EEG) [Exercise 1]
 ## General remarks to exercises
-These exercises are comparatively easy and not very involved - this is by design. They are designed to help you think in different ways about the lecture material. The exercises are highly recommended but not mandatory. It is best if you generate a jupyter notebook for each exercise and upload it every week until Wednesday 18.00 (some exercises are over two weeks and specified as such in the course-overview table in Ilias).
+These exercises are comparatively easy and not very involved - this is by design. They are designed to help you think in different ways about the lecture material. The exercises are highly recommended but not mandatory. It is best if you generate a jupyter notebook for each exercise and upload it every week until Monday 12.00 (some exercises are over two weeks and specified as such in the course-overview table in Ilias).
 
 You are encouraged to work in groups of 2. 
 
