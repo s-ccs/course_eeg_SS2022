@@ -8,7 +8,7 @@ I will be grading each of the following sections
 -	Mass univariate
 -	Decoding analysis
 -	Source space
--   Time trequency analysis
+- Time trequency analysis
 
 According to the following criteria:
 
@@ -23,6 +23,3 @@ Generally, you see that documentation is important. I do not only want to see th
 
 
 * Sanity checks are small asserts & plots here and there, maybe even a unittest or two - small things that make sure your code is doing what it is supposed to be doing. Sentences starting with ("This seems correct, because xy", "this is strange because...", etc.) are expected. Such sentences give me an idea how much you understood the material.
-
-
-* 
