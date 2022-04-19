@@ -30,9 +30,14 @@ Choose 2 out of 4 (include statistical analyses):
         Decode the main contrast of the experiment across time *Example RQ: When is information about the conditions in our data available?*
 - Source space
         Use source localization to visualize the source of the main experimental contrast *Example RQ: Where does our effect come from?*
+        *Hint: Statistics are difficult in Source-Space. Focus on visualization and explanation of the main contrasts
+        
 - Time Frequency analysis
         Calculate an induced time-frequency analysis of the main experimental contrast *Example RQ: What oscillations underley our effect of interest?*
+        *Hint: Cluster-Permutation tests für time-frequency are tricky, think about which time / frequencies you want to test beforehand. You should visualize alle time/freq's though.
 
+## Group work
+This year, I will allow for groups of two to work on the projects. Naturally, the expectations are a bit higher if you choose this route, and you are expected to work on **all four** tasks.
 
 ## Where do I get the data?
 You can make use of scripts from the github.
